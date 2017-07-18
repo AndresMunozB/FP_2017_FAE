@@ -1,0 +1,454 @@
+ID ANIMAL,NOMBRE ANIMAL,NOMBRE_CIENTIFICO
+1,raton chinchilla comun,Abrocoma bennetti
+2,raton chinchilla de cola corta,Abrocoma cinerea
+3,raton lanudo comun,Abrothrix longipilis
+4,peuquito,Accipiter chilensis
+5,tunduco de Porter,Aconaemys porteri
+6,pancora,Aegla abtao abtao
+7,pancora,Aegla abtao riolimayana
+8,pancora,Aegla alacalufi
+9,pancora,Aegla bahamondei
+10,pancora,Aegla concepcionensis
+11,pancora,Aegla denticulata
+12,pancora,Aegla expansa
+13,pancora,Aegla laevis laevis
+14,pancora,Aegla laevis talcahuano
+15,pancora,Aegla manni
+16,pancora,Aegla maulensis
+17,pancora,Aegla neuquensis neuquensis
+18,pancora,Aegla papudo
+19,pancora,Aegla pewenchae
+20,pancora,Aegla rostrata
+21,pancora,Aegla spectabilis
+22,sapo espinudo austral,Alsodes australis
+23,sapo de Barros,Alsodes barrioi
+24,sapo de Hugo,Alsodes hugoi
+25,rana de pecho espinoso de Tolhuaca,Alsodes igneus
+26,sapo kawaskar,Alsodes kaweshkari
+27,sapo de pecho espinoso de Potrero,Alsodes laevis
+28,sapo de monte,Alsodes montanus
+29,sapo,Alsodes monticola
+30,sapo arriero,Alsodes nodosus
+31,rana de pecho espinoso de Oncol,Alsodes norae
+32,sapo,Alsodes tumultuosus
+33,sapo de Vanzolini,Alsodes vanzolinii
+34,sapo de pecho espinoso de verrugas,Alsodes verrucosus
+35,sapo de pecho espinoso de Malleco,Alsodes vittatus
+36,,Alsophis elegans
+37,caracol terrestre Amphidoxa,Amphidoxa arctispira
+38,caracol terrestre Amphidoxa,Amphidoxa ceroides
+39,caracol terrestre Amphidoxa,Amphidoxa helicophantoides 
+40,caracol terrestre Amphidoxa,Amphidoxa marmorella
+41,caracol terrestre Amphidoxa,Amphidoxa pusio
+42,caracol terrestre Amphidoxa,Amphidoxa quadrata
+43,caracol terrestre Amphidoxa,Amphidoxa selkirki 
+44,caracol terrestre Amphidoxa,Amphidoxa tessellata
+45,cachudito de Juan Fernandez ,Anairetes fernandezianus
+46,pato gargantillo,Anas bahamensis
+47,pato cuchara,Anas platalea
+48,gaviotin de San Felix,Anous stolidus
+49,rayadito de Mas Afuera,Aphrastura masafuerae
+50,peladilla,Aplochiton marinus
+51,peladilla,Aplochiton taeniatus
+52,peladilla,Aplochiton zebra
+53,lobo fino austral,Arctocephalus australis
+54,lobo fino antartico,Arctocephalus gazella
+55,lobo fino de Juan Fernandez,Arctocephalus philippii
+56,lobo fino subantartico,Arctocephalus tropicalis
+57,garza cuca,Ardea cocoi
+58,nuco,Asio flammeus
+59,sapo de Puerto Eden,Atelognathus ceii
+60,sapo,Atelognathus grandisonae
+61,rana de Jeinimeni,Atelognathus jeinimenensis
+62,perdicita cordillerana,Attagis gayi
+63,raton de la puna,Auliscomys sublimis
+64,marsopa anteojillo,Australophocoena dioptrica
+65,pejerrey de mar,Austromenidia laticlavia
+66,ballena minke,Balaenoptera acutorostrata
+67,ballena sei- rorcual bacalao- rorcual de Rudolphi,Balaenoptera borealis
+68,ballena de Bryde o rorcual de Eden,Balaenoptera brydei
+69,ballena azul,Balaenoptera musculus
+70,ballena de aleta- rorcual comun,Balaenoptera physalus
+71,pejerrey chileno,Basilichthys australis
+72,pejerrey chileno,Basilichthys microlepidotus
+73,pejerrey,Basilichthys semotilus
+74,rana jaspeada,Batrachyla antartandica
+75,rana moteada,Batrachyla leptopus
+76,rana de antifaz de Bahia Murta,Batrachyla nibaldoi
+77,rana de ceja- ranita de antifaz,Batrachyla taeniata
+78,ballena picuda de Arnoux,Berardius arnouxi
+79,puye,Brachygalaxias bullocki
+80,sapo de papilas,Bufo papillosus
+81,bagrecito,Bullockia maldonadoi
+82,aguilucho chico,Buteo albigula
+83,aguilucho de la puna,Buteo poecilochrous
+84,aguilucho de masafuera,Buteo polyosoma exsul
+85,aguilucho de cola rojiza,Buteo ventralis
+86,playero artico,Calidris canutus
+87,iguana,Callopistes maculatus
+88,carpintero negro,Campephilus magellanicus
+89,ballena franca pigmea,Caperea marginata
+90,tortuga boba- tortuga cabezona,Caretta caretta
+91,rana chilena,Caudiverbera caudiverbera
+92,cuy peruano,Cavia tschudi
+93,tonina overa,Cephalorhynchus commersoni
+94,delfin chileno,Cephalorhynchus eutropia
+95,quirquincho de la puna,Chaetophractus nationi
+96,peludo,Chaetophractus villosus
+97,caracol terrestre Charopa,Charopa involuta 
+98,caracol terrestre Charopa,Charopa masafuerae
+99,pocha del sur,Cheirodon australe
+100,pocha de los lagos,Cheirodon galusdae
+101,pocha,Cheirodon kiliani
+102,pocha,Cheirodon pisciculus
+103,raton topo del Estrecho Magallanes,Chelemys delfini
+104,raton topo del matorral,Chelemys megalonyx
+105,tortuga verde,Chelonia mydas
+106,chinchilla cordillerana,Chinchilla chinchilla
+107,chinchilla costina,Chinchilla lanigera
+108,chinchillon,Chinchillula sahamae
+109,piuquen,Chloephaga melanoptera
+110,canquen colorado,Chloephaga rubidiceps
+111,churrete chico de masafuera,Cinclodes oustaleti baeckstroemii
+112,torcaza,Columba araucana
+113,chingue comun,Conepatus chinga
+114,chingue patagonico,Conepatus humboldtii
+115,comesebo de los tamarugales,Conirostrum tamarugense
+116,cisne coscoroba,Coscoroba coscoroba
+117,camaron de rio del norte,Cryphiops caementarius
+118,tuco-tuco de Atacama,Ctenomys fulvus
+119,tucotuco de Magallanes ,Ctenomys magellanicus
+120,tuco-tuco del Tamarugal,Ctenomys robustus
+121,tricahue,Cyanoliseus patagonus
+122,cisne de cuello negro,Cygnus melanocorypha
+123,delfin ,Delphinus capensis
+124,delfin comun,Delphinus delphis
+125,tortuga laud,Dermochelys coriacea
+126,vampiro- piuchen,Desmodus rotundus
+127,coral de piedra,Desmophyllum dianthus
+128,dabezon de Bibron,Diplolaemus bibroni
+129,cabezon de Darwin,Diplolaemus darwini
+130,cabezon leopardino,Diplolaemus leopardinus
+131,tollo,Diplomystes camposensis
+132,tollo de agua dulce,Diplomystes chilensis
+133,tollo ,Diplomystes nahuelbutaensis
+134,monito del monte,Dromiciops gliroides
+135,robalo,Eleginops maclovinus
+136,lauchita de pie sedoso- ratita de pie sedoso del norte- raton de pie sedoso- laucha colilarga- laucha de la puna,Eligmodontia puerulus
+137,choroy,Enicognathus leptorhynchus
+138,ballena franca austral,Eubalaena australis
+139,perdiz copetona o Martineta,Eudromia elegans
+140,picaflor de Arica,Eulidia yarrellii
+141,raton sedoso chinchilloide,Euneomys chinchilloides
+142,raton sedoso nortino,Euneomys mordax
+143,raton sedoso de Peterson,Euneomys petersoni
+144,rana de hojarasca austral,Eupsophus calcaratus
+145,sapo de Contulmo,Eupsophus contulmoensis
+146,rana de hojarasca de parpados verdes,Eupsophus emiliopugini
+147,sapo de Isla Mocha,Eupsophus insularis
+148,sapo de Miguel,Eupsophus migueli
+149,sapo de Nahuelbuta,Eupsophus nahuelbutensis
+150,sapo,Eupsophus roseus
+151,ranita de Los Queules,Eupsophus septentrionalis
+152,sapo,Eupsophus vertebralis
+153,halcon peregrino,Falco peregrinus
+154,cernicalo de Juan Fernandez,Falco sparverius fernandenzis
+155,orca pigmea,Feresa attenuata
+156,caracol terrestre de Juan Fernandez,Fernandezia bulimoides 
+157,caracol terrestre de Juan Fernandez,Fernandezia conifera
+158,caracol terrestre de Juan Fernandez,Fernandezia consimilis 
+159,caracol terrestre de Juan Fernandez,Fernandezia cylindrella
+160,caracol terrestre de Juan Fernandez,Fernandezia diaphana 
+161,caracol terrestre de Juan Fernandez,Fernandezia expansa 
+162,caracol terrestre de Juan Fernandez,Fernandezia inornata 
+163,caracol terrestre de Juan Fernandez,Fernandezia longa 
+164,caracol terrestre de Juan Fernandez,Fernandezia philippiana 
+165,caracol terrestre de Juan Fernandez,Fernandezia splendida 
+166,caracol terrestre de Juan Fernandez,Fernandezia tryoni
+167,caracol terrestre de Juan Fernandez,Fernandezia wilsoni 
+168,ave fragata grande,Fregata minor
+169,golondrina de mar de vientre blanco,Fregetta grallaria
+170,tagua cornuda,Fulica cornuta
+171,tagua gigante,Fulica gigantea
+172,puye,Galaxias globiceps
+173,puye,Galaxias maculatus
+174,puye,Galaxias platei
+175,cuy serrano,Galea musteloides
+176,quique,Galictis cuja
+177,becacina,Gallinago paraguaiae
+178,lamprea de bolsa,Geotria australis
+179,raton topo chico,Geoxus valdivianus
+180,calderon de aleta corta,Globicephala macrorhynchus
+181,calderon negro,Globicephala melas
+182,falso calderon,Grampus griseus
+183,vaquita del desierto de Paposo,Gyriosomus angustus
+184,vaquita de la Isla Choros- vaquita del desierto ,Gyriosomus granulipennis
+185,bagre,Hatcheria macraei
+186,pato rinconero,Heteronetta atricapilla
+187,taruca,Hippocamelus antisensis
+188,huemul,Hippocamelus bisulcus
+189,salamanqueja del norte chico,Homonota gaudichaudi
+190,,Homonota penai
+191,foca leopardo,Hydrurga leptonyx
+192,rana arborea,Hylorina sylvatica
+193,ballena nariz de botella del sur,Hyperodon planifrons
+194,sapo ,Insuetophrynus acarpicus
+195,rata arborea,Irenomys tarsalis
+196,huairavillo,Ixobrychus involucris
+197,cachalote enano de cabeza corta- cachalote pigmeo,Kogia breviceps
+198,cachalote enano dentado,Kogia sima
+199,delfin austral,Lagenorhynchus australis
+200,delfin cruzado,Lagenorhynchus cruciger
+201,delfin obscuro,Lagenorhynchus obscurus
+202,vizcacha,Lagidium viscacia
+203,vizcacha austral,Lagidium wolffsohni
+204,guanaco,Lama guanicoe
+205,gaviotin monja,Larosterna inca
+206,gaviota garuma,Larus modestus
+207,gaviota andina,Larus serranus
+208,pidencito,Laterallus jamaicensis
+209,colo-colo,Leopardus colocolo
+210,gato montes argentino,Leopardus geoffroyi
+211,güina,Leopardus guigna
+212,tortuga olivacea,Lepidochelys olivacea
+213,pez aguja,Leptonotus blainvillianus
+214,foca de Weddell,Leptonychotes weddelli
+215,lagartija rayada nortina,Liolaemus alticolor
+216,lagartija patagonica,Liolaemus archeforus
+217,lagartija de Atacama,Liolaemus atacamensis
+218,dragon de oido cubierto,Liolaemus audituvelata
+219,lagartija parda,Liolaemus bellii
+220,lagartija patagonica de Bibron,Liolaemus bibroni
+221,lagartija de dos manchas,Liolaemus bisignatus
+222,lagartija de Boulenger,Liolaemus boulengeri
+223,lagartija de Bürger,Liolaemus buergeri
+224,lagarto de Cei,Liolaemus ceii 
+225,lagarto chileno,Liolaemus chiliensis
+226,lagartija de Constanza,Liolaemus constanzae
+227,lagartija de Copiapo,Liolaemus copiapoensis
+228,lagartija de Cristian,Liolaemus cristiani
+229,lagartija de Curico,Liolaemus curicensis
+230,lagarto negro,Liolaemus curis
+231,lagartija de vientre azul,Liolaemus cyanogaster
+232,lagartija de Donoso,Liolaemus donosoi
+233,lagarto de d'Orbigny,Liolaemus dorbignyi
+234,lagartija de Eleodoro,Liolaemus eleodori
+235,dragon grande,Liolaemus erroneus
+236,lagartija de Fabian,Liolaemus fabiani
+237,lagartija de Fitzgerald,Liolaemus fitzgeraldi
+238,lagartija de Fitzinger,Liolaemus fitzingerii 
+239,lagartija oscura,Liolaemus fuscus
+240,lagartija de Gravenhorst ,Liolaemus gravenhorsti
+241,lagartija de Hellmich,Liolaemus hellmichi
+242,lagartija de Hernan,Liolaemus hernani
+243,lagartija de Isabel,Liolaemus isabelae
+244,lagartija de Isluga,Liolaemus islugensis
+245,jararanco de James,Liolaemus jamesi 
+246,lagartija de Ortiz,Liolaemus juanortizi
+247,lagarto de King,Liolaemus kingi
+248,lagarto de Krieg,Liolaemus kriegi
+249,lagarto de Kuhlmann,Liolaemus kuhlmanni
+250,lagartija lemniscata,Liolaemus lemniscatus
+251,lagarto leopardo,Liolaemus leopardinus
+252,lagartija de lineas blancas,Liolaemus lineomaculatus
+253,lagarto de Müller,Liolaemus lorenzmuelleri
+254,lagartija magallanica,Liolaemus magellanicus
+255,lagartija de Maldonado,Liolaemus maldonadae
+256,lagartija de los montes,Liolaemus monticola
+257,lagartija de cabeza negra,Liolaemus nigriceps
+258,lagartija de mancha,Liolaemus nigromaculatus
+259,lagartija negro verdosa,Liolaemus nigroviridis
+260,lagarto nitido,Liolaemus nitidus 
+261,lagartija ornamentada,Liolaemus ornatus
+262,lagartija pantera,Liolaemus pantherinus
+263,lagartija de Patricia Iturra,LIolaemus patriciaiturrae
+264,lagartija de Paulina,Liolaemus paulinae
+265,lagartija,Liolaemus pictus
+266,lagartija de Plate,Liolaemus platei
+267,lagarto de Poconchile,Liolaemus poconchilensis
+268,lagartija lemniscata falsa,Liolaemus pseudolemniscatus
+269,lagartija leopardo del Ramon,Liolaemus ramonensis
+270,dragon de Reiche,Liolaemus reichei
+271,,Liolaemus robertoi
+272,lagartija de Rosenmann,Liolaemus rosenmanni
+273,lagartija de Schmidt,Liolaemus schmidti
+274,lagartija de Schröeder,Liolaemus schroederi
+275,lagarto rubricado,Liolaemus signifer
+276,lagartija de Silva,Liolaemus silvai
+277,dragon de Stolzmann,Liolaemus stolzmanni
+278,lagartija esbelta,Liolaemus tenuis
+279,lagarto de Lo Valdes,Liolaemus valdesianus
+280,lagartija,Liolaemus vallecurensis
+281,jagartija de Veloso,Liolaemus velosoi
+282,lagartija de Walker,Liolaemus walkeri
+283,lagarto de Zapallar,Liolaemus zapallarensis
+284,foca cangrejera,Lobodon carcinophagus
+285,chungungo,Lontra felina
+286,huillin,Lontra provocax
+287,huroncito patagonico,Lyncodon patagonicus
+288,Ballena jorobada,Megaptera novaeangliae
+289,ballena picuda de De Blainville,Mesoplodon densirostris
+290,ballena picuda de Gray,Mesoplodon grayi
+291,ballena picuda de Hector,Mesoplodon hectori
+292,ballena picuda de Layard,Mesoplodon layardi
+293,cuy de la patagonia,Microcavia australis
+294,corredor de Atacama,Microlophus atacamensis
+295,corredor de Arica,Microlophus heterolepis
+296,corredor de Mamina,Microlophus maminensis
+297,corredor de cuatro bandas,Microlophus quadrivittatus
+298,corredor de Tarapaca,Microlophus tarapacensis
+299,corredor de Teresa,Microlophus theresioides
+300,corredor de Arica,Microlophus yanezi
+301,huaiquil- roncador,Micropogonias furnieri
+302,elefante marino,Mirounga leonina
+303,lamprea de agua dulce,Mordacia lapicida
+304,lisa,Mugil cephalus
+305,coipo,Myocastor coypus
+306,sapo variegado,Nannophryne variegata
+307,bagre grande,Nematogenys inermis
+308,cazamoscas chocolate,Neoxolmis rufiventris
+309,golondrina de mar de garganta blanca,Nesofregetta fuliginosa
+310,zarapito boreal,Numenius borealis
+311,golondrina de mar chica,Oceanites gracilis
+312,golondrina de mar de collar,Oceanodroma hornbyi
+313,golondrina de mar negra,Oceanodroma markhami
+314,degu de los matorrales,Octodon bridgesi 
+315,degu costino,Octodon lunatus
+316,cauque del norte,Odontesthes brevianalis
+317,pejerrey de Juan Fernandez,Odontesthes gracilis
+318,pejerrey,Odontesthes hatcheri
+319,cauque del Itata,Odontesthes itatanum
+320,cauque  ,Odontesthes mauleanum
+321,caracol terrestre Omalonyx,Omalonyx gayana 
+322,foca de Ross,Omatophoca rossi
+323,orca,Orcinus orca
+324,gato montes andino,Oreailurus jacobita
+325,karachi- orestias,Orestias agassii
+326,karachi- orestias,Orestias ascotanensis
+327,karachi- orestias,Orestias chungarensis
+328,karachi- orestias,Orestias laucaensis
+329,karachi- orestias,Orestias parinacotensis
+330,karachi,Orestias piacotensis
+331,lobo marino comun- lobo de un pelo,Otarya flavescens
+332,aguila pescadora,Pandion haliaetus
+333,camaron de vega,Parastacus nicoleti
+334,camaron de vega,Parastacus pugnax
+335,serpiente marina,Pelamis platurus
+336,yunco,Pelecanoides garnotii
+337,perca negra,Percichthys melanops
+338,perca trucha,Percichthys trucha
+339,carmelita,Percilia gillissi
+340,carmelita de Concepcion,Percilia irwini
+341,ave del tropico de cola roja,Phaeton rubricauda
+342,guanay,Phalacrocorax bougainvillii
+343,lile,Phalacrocorax gaimardi
+344,culebra de cola larga,Philodryas chamissonis   
+345,culebra de cola larga,Philodryas simonsii
+346,culebra de cola larga de Camarones,Philodryas tachymenoides  
+347,marsopa espinosa,Phocoena spinipinnis
+348,parina grande,Phoenicoparrus andinus
+349,parina chica,Phoenicoparrus jamesi
+350,flamenco chileno,Phoenicopterus chilensis
+351,salamanqueja del norte grande,Phyllodactylus gerrhopygus
+352,salamanqueja,Phylodactylus heterurus
+353,matuasto,Phymaturus flagellifer
+354,cachalote,Physeter macrocephalus
+355,cuervo de pantano,Plegadis chihi
+356,cuervo de pantano de la puna,Plegadis ridgwayi
+357,sapo de cuatro ojos del sur,Pleurodema bufonina
+358,sapo de cuatro ojos del norte,Pleurodema marmorata
+359,sapito de cuatro ojos,Pleurodema thaul
+360,chorlo de Magallanes,Pluvianellus socialis
+361,grunidor de Alvaro,Pristidactylus alvaroi
+362,grunidor del sur,Pristidactylus torquatus
+363,grunidor de Valeria,Pristidactylus valeriae
+364,grunidor de El Volcan,Pristidactylus volcanensis
+365,zorro colorado de Tierra del Fuego-  zorro culpeo de Tierra del Fuego,Pseudalopex culpaeus lycoides
+366,zorro colorado- zorro culpeo,Pseudalopex culpaeus
+367,zorro de Chiloe,Pseudalopex fulvipes
+368,zorro chilla o gris,Pseudalopex griseus
+369,pajaro amarillo,Pseudocolopteryx flaviventris
+370,falsa orca,Pseudorca crassidens
+371,fardela de Cook,Pterodroma coocki
+372,fardela blanca de Mas a Tierra,Pterodroma defilippiana
+373,fardela blanca de Juan Fernandez,Pterodroma externa
+374,fardela de Mas Afuera,Pterodroma longirostris
+375,fardela negra de Juan Fernandez,Pterodroma neglecta
+376,caracol terrestre Ptychodon,Ptychodon oculta 
+377,caracol terrestre Ptychodon,Ptychodon skottsberg 
+378,pudu,Pudu pudu
+379,fardela blanca,Puffinus creatopus
+380,fardela de Pascua,Puffinus nativitatis
+381,puma,Puma concolor
+382,caracol terrestre Punctum,Punctum conicum 
+383,caracol terrestre Punctum,Punctum depressum 
+384,piden austral,Rallus antarcticus
+385,nandu,Rhea pennata pennata
+386,nandu,Rhea pennata tarapacensis
+387,sapo de rulo,Rhinella arunco
+388,sapo de Atacama,Rhinella atacamensis
+389,sapo,Rhinella rubropunctata
+390,sapo espinoso ,Rhinella spinulosa
+391,ranita de Darwin,Rhinoderma darwini
+392,ranita ,Rhinoderma rufum
+393,comadrejita trompuda,Rhyncholestes raphanurus
+394,becacina pintada,Rostratula semicollaris
+395,camaron de rio del sur,Samastacus spinifrons
+396,picaflor de Juan Fernandez,Sephanoides fernandensis
+397,cururo,Spalacopus cyanus
+398,pingüino de Humboldt,Spheniscus humboldti
+399,delfin manchado esbelto,Stenella attenuata
+400,delfin listado,Stenella coeruleoalba
+401,delfin de pico largo,Stenella longirostris
+402,delfin de diente aspero,Steno bredanensis
+403,gaviotin chico,Sterna lorata
+404,concon,Strix rufipes
+405,caracol terrestre Succinea,Succinea cryptica 
+406,caracol terrestre Succinea,Succinea cumingi 
+407,caracol terrestre Succinea,Succinea fernandi 
+408,caracol terrestre Succinea,Succinea fragilis 
+409,caracol terrestre Succinea,Succinea mamillata
+410,caracol terrestre Succinea,Succinea masafuerae
+411,caracol terrestre Succinea,Succinea pinguis
+412,caracol terrestre Succinea,Succinea rubicunda
+413,caracol terrestre Succinea,Succinea semiblobosa
+414,caracol terrestre Succinea,Succinea texta
+415,piquero,Sula variegata
+416,quetru volador,Tachyeres patagonicus
+417,culebra de cola corta,Tachymenis chilensis  
+418,culebra peruana,Tachymenis peruviana
+419,ballena picuda de Shepherd,Tasmacetus shepherdi
+420,sapo,Telmatobius chusmisensis
+421,sapo de Danko,Telmatobius dankoi
+422,sapo,Telmatobius fronteriensis
+423,sapo,Telmatobius halli
+424,sapo,Telmatobius marmoratus
+425,sapo de Pefaur,Telmatobius pefauri
+426,sapo peruano,Telmatobius peruvianus
+427,sapo de Philippi,Telmatobius philippii
+428,sapo de Zapahuira,Telmatobius zapahuirensis
+429,sapo Austral,Telmatobufo australis
+430,sapo de Bullock,Telmatobufo bullocki
+431,sapo hermoso,Telmatobufo venustus
+432,bandurria de la puna,Theristicus branickii
+433,bandurria,Theristicus melanopis
+434,llaca o Marmosa,Thylamys elegans
+435,perdiz austral,Tinamotis ingoufi
+436,perdiz de la puna,Tinamotis pentlandii
+437,caracol terrestre Tornatellina,Tornatellina aperta 
+438,caracol terrestre Tornatellina,Tornatellina bilamellata
+439,caracol terrestre Tornatellina,Tornatellina callosa 
+440,caracol terrestre Tornatellina,Tornatellina minuta 
+441,caracol terrestre Tornatellina,Tornatellina plicosa
+442,caracol terrestre Tornatellina,Tornatellina reclusiana
+443,bagrecito,Trichomycterus areolatus
+444,bagrecito,Trichomycterus chiltoni
+445,bagrecito,Trichomycterus chungarensis
+446,bagrecito,Trichomycterus rivulatus
+447,bagrecito,Trichomyterus laucaensis
+448,delfin nariz de botella,Tursiops truncatus
+449,vicuna,Vicugna vicugna
+450,camaron,Virilastacus araucanis
+451,condor,Vultur gryphus
+452,piche,Zaedyus pichiy
+453,ballena picuda de Cuvier,Ziphius cavirostris
